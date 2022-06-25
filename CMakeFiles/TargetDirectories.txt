@@ -1,0 +1,3 @@
+/home/ayu/Code/random/NoCol/CMakeFiles/rebuild_cache.dir
+/home/ayu/Code/random/NoCol/CMakeFiles/edit_cache.dir
+/home/ayu/Code/random/NoCol/CMakeFiles/NoCol.dir

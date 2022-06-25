@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/NoCol.dir/src/display_manager.cpp.o CMakeFiles/NoCol.dir/src/main.cpp.o  -o NoCol  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 -lpthread /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 
