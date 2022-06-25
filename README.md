@@ -13,3 +13,4 @@ The following keyboard shortcuts are available
 * <kbd>esc</kbd> close the application.
 
 You can zoom into the simulation by scrolling, and move around by dragging with the mouse.
+# Collision
